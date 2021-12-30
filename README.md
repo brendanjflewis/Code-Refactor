@@ -5,7 +5,7 @@ This is a code refactor challenge to rework the CSS to make it more efficient. T
 
 ## Preview
 
-[!Screenshot](https://github.com/brendanjflewis/urban-octo-telegram-main/assets/images/Horiseon-site.jpg)
+![Screenshot](assets/images/Horiseon-site.jpg)
 
 # Deployed Application
 
