@@ -9,4 +9,4 @@ This is a code refactor challenge to rework the CSS to make it more efficient. T
 
 ## Deployed Application
 
-https://brendanjflewis.github.io/urban-octo-telegram-main/
+https://brendanjflewis.github.io/Code-Refactor/
