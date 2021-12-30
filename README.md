@@ -7,8 +7,6 @@ This is a code refactor challenge to rework the CSS to make it more efficient. T
 
 ![Screenshot](assets/images/Horiseon-site.jpg)
 
-# Deployed Application
+## Deployed Application
 
-
-
-https://github.com/brendanjflewis/urban-octo-telegram-main
+https://brendanjflewis.github.io/urban-octo-telegram-main/
